@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **akashpatel2699/akashpatel2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Akash Patel
+### Hello👋,  I'm Akash Patel
+
 I am a senior Computer Science student at New Jersey Institute of Technology. I have recently taken a senior seminar class where I have created few projects that are found on here. I am passionate about computer networking and software developlment. 
