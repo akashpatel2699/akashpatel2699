@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Header](https://github.com/akashpatel2699/akashpatel2699/blob/main/readme_header.jpg "Header")](https://https://akashpatel-portfolio.netlify.app/)
+
 ### Hello👋,  I'm Akash Patel
 
 I am a senior Computer Science student at New Jersey Institute of Technology. I have recently taken a senior seminar class where I have created few projects that are found on here. I am passionate about computer networking and software developlment. 
