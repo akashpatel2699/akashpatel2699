@@ -49,7 +49,7 @@ I am a senior Computer Science student at New Jersey Institute of Technology. I 
 -->
 
 <!-- Repository cards-->
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/akashpatel2699/portfolio_sanity_io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashpatel2699&repo=portfolio_sanity_io&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!-- 
