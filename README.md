@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/akashpatel2699/akashpatel2699/blob/main/readme_header.jpg "Header")](https://akashpatel-portfolio.netlify.app/)
+[![Header](https://github.com/akashpatel2699/akashpatel2699/blob/main/readme_header(2).jpg "Header")](https://akashpatel-portfolio.netlify.app/)
 
 ### Hello <img src="https://github.com/akashpatel2699/akashpatel2699/blob/main/wave.gif" width="30px">,  I'm Akash Patel
 
